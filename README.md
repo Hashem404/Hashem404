@@ -1,5 +1,3 @@
-# UniEv
-Modern university event management platform built with clean architecture and scalable design.
 
 # 💫 About Me:
 🎓 Computer Engineering student at Kocaeli University of Health and Technology<br>📚 Continuously learning new technologies and software engineering concepts<br>🧠 Always improving problem-solving and software development skills<br>🔥 Focused on writing clean code and building professional architectures<br>🤝 Open to collaboration on creative and impactful tech projects
