@@ -131,8 +131,3 @@ D --> E[Deployment]
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:FB7185&height=120&section=footer"/>
-
-</div>
