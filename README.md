@@ -1,44 +1,52 @@
 <div align="center">
 
-# 👨‍💻 Hashem Salem
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Hashem%20Salem&fontSize=55&color=0:6C63FF,100:B721FF&stroke=B721FF"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=260&section=header&text=Hashem%20Salem&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# ⚡ Building Modern Systems With Code
 
-### 🎓 Software Engineering Student | Python Developer | FastAPI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Python+Developer;FastAPI+Backend+Developer;Building+Modern+University+Systems;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Backend+Developer;FastAPI+%7C+Python+%7C+PostgreSQL;Creating+Real+World+Projects"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
+
+## 🧠 Core Technologies
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,sqlite,js,html,css,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 🛰️ Developer Profile
 
 <table>
 <tr>
 <td width="50%">
 
-### 👋 Hello!
+### 👨‍💻 About Me
 
-* 🎓 Software Engineering Student
-* 💻 Passionate about Backend Development
-* ⚡ Specialized in Python & FastAPI
-* 🛠️ Building Modern University Systems
-* 🌱 Currently learning advanced software architecture
-* 🚀 Interested in scalable web applications
+```yaml
+Name: Hashem Salem
+Role: Software Engineering Student
+Focus: Backend Development
+Stack: FastAPI & PostgreSQL
+Interest: Scalable Systems
+```
 
 </td>
 
 <td width="50%">
 
-### 🧠 Current Focus
+### ⚙️ Currently Working On
 
-* FastAPI & REST APIs
-* PostgreSQL Databases
-* Authentication Systems
-* Real-Time Communication
-* Software Architecture
-* Full Stack Development
+* 🚀 University Systems
+* 🏠 Housing Platforms
+* 🔐 Authentication Systems
+* 💬 Real-Time Features
+* 🧩 Software Architecture
 
 </td>
 </tr>
@@ -46,90 +54,62 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 📊 GitHub Analytics
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,sqlite,js,html,css,git,github,vscode,docker,linux)](https://skillicons.dev)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hashem404&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashem404&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Featured Projects
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hashem404&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashem404&layout=compact&theme=tokyonight"/>
+| Project                       | Description                             | Tech               |
+| ----------------------------- | --------------------------------------- | ------------------ |
+| 🏠 **UniEv**                  | Student housing & roommate platform     | FastAPI, Socket.IO |
+| 🎓 **Exam Scheduling System** | Smart university exam management system | Python, PostgreSQL |
+| ⚡ **Backend APIs**            | RESTful & realtime backend services     | FastAPI            |
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
+# 🛠️ Development Environment
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-## 🏠 UniEv
+<img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-Modern student housing & roommate matching platform.
+<img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-### 🔹 Technologies
+<img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-* FastAPI
-* SQLite / PostgreSQL
-* Socket.IO
-* HTML/CSS/JavaScript
-
-### 🔗 Repository
-
-<a href="https://github.com/Hashem404/UniEv">Open UniEv</a>
-
-</td>
-
-<td width="50%">
-
-## 🎓 Exam Scheduling Management System
-
-Desktop-based university exam scheduling system.
-
-### 🔹 Technologies
-
-* Python
-* PostgreSQL
-* Tkinter
-* MVC Architecture
-
-### 🔗 Repository
-
-<a href="https://github.com/Hashem404/yazilimLab03">Open Project</a>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 🏆 Achievements
+# 🌌 Activity Graph
 
-* 🚀 Developed full-stack university systems
-* 🛠️ Built FastAPI backend applications
-* 📊 Designed relational database systems
-* 🔐 Implemented authentication & authorization systems
-* 💬 Developed real-time communication features
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashem404&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/Hashem404">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Hashem404-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -138,8 +118,6 @@ Desktop-based university exam scheduling system.
 
 <div align="center">
 
-# ⭐ Thanks for Visiting My Profile
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:B721FF"/>
 
 </div>
