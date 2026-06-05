@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=250&section=header&text=Hashem%20Salem&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2563EB,100:06B6D4&height=140&section=header&text=Hashem%20Salem&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
 # 🧩 Turning Ideas Into Real Systems
 
